@@ -1,0 +1,14 @@
+layout_spectrum: 0.4134095588233322
+typography_spectrum: 0.8581095489207655
+color:
+  brandStrength: 0.8103600633330643
+  lightness: 0.819727472262457
+  saturation: 0.7277984605170786
+  rhythmicContrast: 0.15667705493979156
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: Tour Dimensional
