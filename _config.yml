@@ -6,9 +6,9 @@ color:
   saturation: 0.7277984605170786
   rhythmicContrast: 0.15667705493979156
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: Tour Dimensional
